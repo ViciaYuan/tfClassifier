@@ -1,3 +1,8 @@
+# Added by ViciaYuan
+1) for windows users to run the codes, remember to change the file or folder paths to windows style!
+eg. **d:/tmp** instead of **~/tmp**
+2) add [inception official tutorials](https://github.com/tensorflow/models/tree/master/research/inception) 
+
 # tfClassifier
 
 This repository contains code to: 
